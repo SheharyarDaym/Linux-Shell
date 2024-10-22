@@ -1,0 +1,6 @@
+# Script Reference : https://www.hackerrank.com/challenges/bash-tutorials-lets-echo
+# Difficulty : Medium
+
+echo HELLO
+
+# Echo used to display on screen..
