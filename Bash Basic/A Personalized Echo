@@ -1,0 +1,11 @@
+# Script Reference : https://www.hackerrank.com/challenges/bash-tutorials---a-personalized-echo
+# Difficulty : Easy
+
+read name
+echo "Welcome $name"
+
+# It is good practice to write string in a double qoutes " "
+
+# In Bash, the dollar sign ($) is used to refer to the value of a variable. 
+# When you declare a variable, such as name, you store a value in it. 
+# To access or use that value later in your script, you precede the variable name with a $.
